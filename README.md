@@ -2,6 +2,8 @@
 
 The **Course Scheduler App** is a Java-based application designed to help students create, organize, and manage their academic course schedules. Built in **NetBeans** using **object-oriented programming principles** and powered by a **Java DB (Derby) database**, the project demonstrates strong skills in software design, user interaction, and persistent data management.  
 
+This project was **created in Spring 2025**. 
+
 ## ✨ Features  
 - Add, edit, and remove courses with details such as course name, code, instructor, credits, and time slot  
 - Database integration (**Java DB/Derby**) for storing course and schedule information  
